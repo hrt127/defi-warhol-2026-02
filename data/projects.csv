@@ -1,0 +1,11 @@
+protocol,tier,funding,narrative,tasks,time_cost,kyc_risk,ev_score,notes
+Moca Network,S,47M,Animoca/Gaming,Verify proofs + invites,Low,None,95,app.moca.network
+D3/Doma,S,30M,Domains/Infra,Bridge + LP + swaps + Galxe,Medium,None,90,app.doma.xyz
+Ostium Labs,A,Unknown,RWA Perps,Trade perps on RWA markets,High,None,85,Institutional volume heavy
+HyenaTrade,A,Unknown,Perps,Volume farming on perps,High,None,80,hyena.trade
+Paradex,A,Unknown,Starknet Perps,Trade on Starknet,High,None,80,Coinbase narrative
+Tria,B,Unknown,Card/Spending,Card signup + spending,Medium,Yes,60,KYC required
+Pacifica,B,Unknown,Trading,Trading tasks,Medium,None,65,pacifica.trade
+Spaace,B,Unknown,Social Quests,Complete quest tab,Low,None,50,spaace.io
+Perle,B,Unknown,Task Farming,Social tasks + points,Low,None,45,perle.io
+Konnex,B,Unknown,Tasks/Points,Complete tasks,Low,None,45,konnex.io
